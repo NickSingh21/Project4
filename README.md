@@ -76,6 +76,8 @@ NicksMoviePreviewer is a SwiftUI-based iOS app that allows users to explore, pre
 [Add picture of your hand sketched wireframes in this section]
 
 ### [BONUS] Digital Wireframes & Mockups
+![Screenshot 2024-12-09 124104](https://github.com/user-attachments/assets/05b2932d-0d0e-418f-8f7d-64a1b4f6dd02)
+
 
 ### [BONUS] Interactive Prototype
 
