@@ -2,7 +2,7 @@
 //  APIManager.swift
 //  TMDBMovieApp
 //
-//  Created by Yogesh Patel on 15/04/24.
+//  Created by Nichlas Doorgasingh 
 //
 
 import Foundation
