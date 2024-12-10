@@ -2,7 +2,7 @@
 //  HomeView.swift
 //  TMDBMovieApp
 //
-//  Created by Yogesh Patel on 15/04/24.
+//  Created by Nicholas Doorgasingh
 //
 
 import SwiftUI
