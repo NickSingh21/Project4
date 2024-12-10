@@ -2,7 +2,7 @@
 //  CastModel.swift
 //  TMDBMovieApp
 //
-//  Created by Yogesh Patel on 18/04/24.
+//  Created by Nicholas Doorgasingh
 //
 
 import Foundation
